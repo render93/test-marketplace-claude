@@ -5,7 +5,7 @@
   "plugins": [
     {
       "name": "claude-dev-kit",
-      "source": "claude-dev-kit",
+      "source": "./plugins/claude-dev-kit",
       "description": "endpoint-creator skill + dba subagent + SubagentStart schema-injection hook.",
       "version": "0.1.0"
     }
